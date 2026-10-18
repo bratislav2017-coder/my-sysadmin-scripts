@@ -1,0 +1,114 @@
+
+--- 2026-10-18 23:53:40 +0300 ---
+
+Оперативная память:
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       152Mi       1.0Gi       1.0Mi       771Mi       1.7Gi
+Swap:             0B          0B          0B
+
+Файловые системы:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           197M  1.2M  196M   1% /run
+/dev/sda1        20G  1.9G   18G  10% /
+tmpfs           984M     0  984M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15       98M  6.3M   92M   7% /boot/efi
+tmpfs           197M  4.0K  197M   1% /run/user/1000
+
+Время работы и нагрузка:
+ 23:53:40 up  1:55,  1 user,  load average: 0.00, 0.01, 0.00
+
+--- 2026-10-18 23:53:45 +0300 ---
+
+Оперативная память:
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       153Mi       1.0Gi       1.0Mi       771Mi       1.7Gi
+Swap:             0B          0B          0B
+
+Файловые системы:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           197M  1.2M  196M   1% /run
+/dev/sda1        20G  1.9G   18G  10% /
+tmpfs           984M     0  984M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15       98M  6.3M   92M   7% /boot/efi
+tmpfs           197M  4.0K  197M   1% /run/user/1000
+
+Время работы и нагрузка:
+ 23:53:45 up  1:55,  1 user,  load average: 0.00, 0.01, 0.00
+
+--- 2026-10-18 23:53:50 +0300 ---
+
+Оперативная память:
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       153Mi       1.0Gi       1.0Mi       771Mi       1.7Gi
+Swap:             0B          0B          0B
+
+Файловые системы:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           197M  1.2M  196M   1% /run
+/dev/sda1        20G  1.9G   18G  10% /
+tmpfs           984M     0  984M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15       98M  6.3M   92M   7% /boot/efi
+tmpfs           197M  4.0K  197M   1% /run/user/1000
+
+Время работы и нагрузка:
+ 23:53:50 up  1:55,  1 user,  load average: 0.00, 0.01, 0.00
+
+--- 2026-10-18 23:53:55 +0300 ---
+
+Оперативная память:
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       153Mi       1.0Gi       1.0Mi       771Mi       1.7Gi
+Swap:             0B          0B          0B
+
+Файловые системы:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           197M  1.2M  196M   1% /run
+/dev/sda1        20G  1.9G   18G  10% /
+tmpfs           984M     0  984M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15       98M  6.3M   92M   7% /boot/efi
+tmpfs           197M  4.0K  197M   1% /run/user/1000
+
+Время работы и нагрузка:
+ 23:53:55 up  1:55,  1 user,  load average: 0.00, 0.01, 0.00
+
+--- 2026-10-18 23:54:00 +0300 ---
+
+Оперативная память:
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       153Mi       1.0Gi       1.0Mi       771Mi       1.7Gi
+Swap:             0B          0B          0B
+
+Файловые системы:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           197M  1.2M  196M   1% /run
+/dev/sda1        20G  1.9G   18G  10% /
+tmpfs           984M     0  984M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15       98M  6.3M   92M   7% /boot/efi
+tmpfs           197M  4.0K  197M   1% /run/user/1000
+
+Время работы и нагрузка:
+ 23:54:00 up  1:55,  1 user,  load average: 0.00, 0.01, 0.00
+
+--- 2026-10-18 23:54:05 +0300 ---
+
+Оперативная память:
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       153Mi       1.0Gi       1.0Mi       771Mi       1.7Gi
+Swap:             0B          0B          0B
+
+Файловые системы:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           197M  1.2M  196M   1% /run
+/dev/sda1        20G  1.9G   18G  10% /
+tmpfs           984M     0  984M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15       98M  6.3M   92M   7% /boot/efi
+tmpfs           197M  4.0K  197M   1% /run/user/1000
+
+Время работы и нагрузка:
+ 23:54:05 up  1:55,  1 user,  load average: 0.00, 0.01, 0.00
