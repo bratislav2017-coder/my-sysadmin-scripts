@@ -2,7 +2,8 @@
 set -eu
 
 N=5
-LOG_FILE="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)/monitor.log"
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+LOG_FILE="${LOG_FILE:-$SCRIPT_DIR/monitor.log}"
 
 if ! [[ "$N" =~ ^[1-9][0-9]*$ ]]; then
     printf 'Ошибка: N должно быть положительным целым числом.\n' >&2
@@ -15,6 +16,8 @@ for tool in date free df uptime sleep; do
         exit 1
     fi
 done
+
+mkdir -p -- "$(dirname -- "$LOG_FILE")"
 
 if ! touch -- "$LOG_FILE"; then
     printf 'Ошибка: невозможно записать лог %s\n' "$LOG_FILE" >&2

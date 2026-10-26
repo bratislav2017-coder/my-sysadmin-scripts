@@ -1,1 +1,3 @@
 monitor.log
+docker-data/
+*.img

@@ -1,0 +1,7 @@
+.git
+.gitignore
+.dockerignore
+docker-data/
+*.img
+*.log
+sample_output.txt
